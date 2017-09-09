@@ -1,5 +1,5 @@
 
-# Kodi Home Theater Software
+# Jay Software
 
 **Welcome to JAY!**
 
